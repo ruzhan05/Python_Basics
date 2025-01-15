@@ -6,3 +6,6 @@ print('''Twinkle, twinkle, little star,
     Like a diamond in the sky.
     Twinkle, twinkle, little star,
     How I wonder what you are''')
+
+
+print("Hello how are you now?")
